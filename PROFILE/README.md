@@ -7,8 +7,8 @@ Therefore the code is written with these three pillars:
 - **Readability**: The code should be readable and should be easy to understand and modify.
 
 # Code
-[https://github.com/programming-team-code/programming\_team\_code](Programming Team Code)
-[https://github.com/programming-team-code/programming\_team\_code\_rust](Programming Team Code - Rust Edition)
+[Programming Team Code](https://github.com/programming-team-code/programming_team_code)
+[Programming Team Code - Rust Edition](https://github.com/programming-team-code/programming_team_code_rust)
 
 # Contributing
 
