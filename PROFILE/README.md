@@ -6,12 +6,7 @@ Therefore the code is written with these three pillars:
 - **Efficiency**: The code should be efficient and should run within the time limits.
 - **Readability**: The code should be readable and should be easy to understand and modify.
 
-# Code
-## [Programming Team Code](https://github.com/programming-team-code/programming_team_code)
-## [Programming Team Code - Rust Edition](https://github.com/programming-team-code/programming_team_code_rust)
-
 # Contributing
-
 We're open to all feedback. You can submit an issue or email us at
 ```
 lrvideckis@gmail.com
